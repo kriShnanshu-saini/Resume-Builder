@@ -1,0 +1,1 @@
+export const footerLinks = ['Home', 'Contact Us', 'Privacy Policy']
